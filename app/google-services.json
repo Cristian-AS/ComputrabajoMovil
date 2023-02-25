@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1090889563133",
+    "project_id": "contratameya-a1365",
+    "storage_bucket": "contratameya-a1365.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090889563133:android:1407b887ab63fbd47c3794",
+        "android_client_info": {
+          "package_name": "com.uniminuto.computrabajomovil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090889563133-6cgkp5svri2pn56eueedmj0ap7faaf5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK-mOnbq5FGjmo1tQoe8i9aoeKbRC7B9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090889563133-6cgkp5svri2pn56eueedmj0ap7faaf5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
