@@ -7,4 +7,16 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="gray">#BFC9CA</color>
+
+
+<!--    Codigo de Colores Para la Aplicacion de PractiYa    -->
+    <color name="AzulOscuro">#232ED1</color>
+    <color name="AzulClaro">#788BFF</color>
+    <color name="Negro">#050401</color>
+    <color name="AmarilloOscuro">#FFA630</color>
+    <color name="Blanco">#FCF7F8</color>
+    <color name="Gris">#D9D9D9</color>
+
+
 </resources>

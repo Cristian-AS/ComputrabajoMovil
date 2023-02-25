@@ -14,8 +14,16 @@
         android:theme="@style/Theme.ComputrabajoMovil"
         tools:targetApi="31">
         <activity
+            android:name=".RegisterUsuario"
+            android:exported="true" />
+        <activity
+            android:name=".LoginUsuario"
+            android:exported="true">
+        </activity>
+        <activity
             android:name=".MainActivity"
             android:exported="true">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
